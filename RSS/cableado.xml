@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Cableado</title>
+    <link>http://www.webmalagadesign.es/rss/cableado_sala_rss.xml</link>
+    <description>Lista de material para realizar el cableado de la sala de informática.</description>
+    <language>es</language>
+    <copyright>Federico Huércano Ruiz</copyright>
+    <pubDate>Tue, 18 Aug 2020 19:24:17 GMT</pubDate>
+    <lastBuildDate>Sun, 20 Apr 2025 23:01:43 GMT</lastBuildDate>
+    <category>Redes</category>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <image>
+      <url>http://www.webmalagadesign.es/rss/cableado.jpg</url>
+      <title>Cableado</title>
+      <link>http://www.webmalagadesign.es/rss/cableado.rss</link>
+      <description>Cableado de la sala de informática</description>
+    </image>
+    <item>
+      <title>Conectores RJ45</title>
+      <link>http://www.webmalaga.com/es/proyectos.html</link>
+      <description>Uno de los conectores principales utilizados con tarjeta de red. Estos terminan información a través de cables de par trenzado.</description>
+      <enclosure url="http://www.webmalagadesign.es/r145.jpg" length="14383" type="image/jpeg" />
+      <guid isPermaLink="false">2</guid>
+      <pubDate>Sun, 20 Apr 2025 09:47:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cable UTP Categoría 5</title>
+      <link>http://www.webmalagadesign.es</link>
+      <description>Uno de cableado más solicitado. Es un estándar dentro de la comunicación de datos de baja latencia</description>
+      <enclosure url="http://www.webmalagadesign.es/utp.jpg" length="22345" type="image/jpeg" />
+      <guid isPermaLink="false">3</guid>
+      <pubDate>Sun, 20 Apr 2025 09:47:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crimadora</title>
+      <link>http://www.webmalagadesign.es</link>
+      <description>Nos permite cortar los cables, y crimpar los terminales RJ45.</description>
+      <enclosure url="http://www.webmalagadesign.es/crimpadora.jpg" length="23455" type="image/jpeg" />
+      <guid isPermaLink="false">4</guid>
+      <pubDate>Sun, 20 Apr 2025 09:47:44 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
